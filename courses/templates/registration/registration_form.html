@@ -1,0 +1,40 @@
+{% extends "registration/registration_base.html" %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load bootstrap3 %}
+{% block reg-log %}
+
+    {% if user.is_authenticated %}
+        Welcome back {{ user.username }}
+        {% comment %}<button class="btn btn-primary" href="{% url 'registration.' %}">logout</button>{% endcomment %}
+    {% else %}
+        <div class="col-sm-6 col-sm-offset-3">
+        <h1>Register Now</h1>
+        <form method="post" action="{% url 'register_success' %}">
+
+            {% csrf_token %}
+            {{ form|crispy }}
+
+            <br><br>
+            <input class="btn btn-primary" type="submit" value="{% trans 'Submit' %}"/>
+{#            <input class="btn btn-primary" name="choice" type="submit" value="{% trans 'User' %}"/>#}
+{#            <input class="btn btn-primary" name="choice" type="submit" value="{% trans 'Instructor' %}"/>#}
+{#            <input class="btn btn-primary" name="choice" type="submit" value="{% trans 'Training Center' %}" />#}
+
+        </form>
+        </div>
+    {% endif %}
+{% endblock %}
+
+
+{% comment %}
+**registration/registration_form.html**
+Used to show the form users will fill out to register. By default, has
+the following context:
+
+``form``
+    The registration form. This will be an instance of some subclass
+    of ``django.forms.Form``; consult `Django's forms documentation
+    <http://docs.djangoproject.com/en/dev/topics/forms/>`_ for
+    information on how to display this in a template.
+{% endcomment %}

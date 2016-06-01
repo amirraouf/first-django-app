@@ -1,0 +1,101 @@
+{% extends 'categories/base.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+
+{% block tabs %}
+    <!-- Nav tabs -->
+                    <div class="container">
+                        <div class="row">
+                            <ul class="nav nav-pills" role="navigation">
+
+                                        <li class="col-sm-2 col-sm-offset-1 text-center firsticon"><a data-toggle="tab" href="#jobfairs"><img height="150px" alt="logo" src="../../static/img/home/job%20fairs.png"></a></li>
+                                        <li class="col-sm-2 text-center icon"><a data-toggle="tab" href="#student_exchange"><img height="150px" alt="logo" src="../../static/img/home/Student%20Exchange.png"></a></li>
+                                        <li  class="active col-sm-2 text-center icon"><a data-toggle="tab" href="#courses"><img height="150px" alt="logo" src="../../static/img/home/Courses.png"></a></li>
+
+                                        <li class="col-sm-2 text-center icon"><a data-toggle="tab" href="#scholarships"><img height="150px" alt="logo" src="../../static/img/home/Scholarships.png"></a></li>
+
+                                        <li class="col-sm-2 text-center icon"><a data-toggle="tab" href="#workshops"><img height="150px" alt="logo" src="../../static/img/home/workshops.png"></a></li>
+
+
+                            </ul>
+<!-- Tab panes -->      </div>
+                        <div class="tab-content " style="width: 989px;margin-left: 98px">
+                            <div id="jobfairs" class="tab-pane fade ">
+                              <div class="container-fluid">
+                                  <div class="row">
+                                      <div class="col-md-3">
+                                        <h1>amir</h1>
+                                      </div>
+                                      <div class="col-md-6 text-center">
+                                          <p class="para text-center"></p>
+                                      </div>
+                                      <div class="col-md-3">
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div id="student_exchange" class="tab-pane fade ">
+                              <div class="container-fluid">
+                                  <div class="row">
+                                      <div class="col-md-3">
+                                        <h1>amir</h1>
+                                      </div>
+                                      <div class="col-md-6 text-center">
+                                          <p class="para text-center"></p>
+                                      </div>
+                                      <div class="col-md-3">
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div id="courses" class="tab-pane fade in active">
+                              <div class="container-fluid">
+                                  <div class="row">
+
+                                      <div class="col-md-6 text-center">
+                                          <p class="para text-center">--CATEGORIES--</p>
+                                      </div>
+
+                                  </div>
+                                <div class="categories-tabs">
+                                  {% block tab-courses %}
+
+                                  {% endblock %}
+                                </div>
+                              </div>
+                            </div>
+                            <div id="scholarships" class="tab-pane fade ">
+                              <div class="container-fluid">
+                                  <div class="row">
+                                      <div class="col-md-3">
+                                        <h1>amir</h1>
+                                      </div>
+                                      <div class="col-md-6 text-center">
+                                          <p class="para text-center"></p>
+                                      </div>
+                                      <div class="col-md-3">
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div id="workshops" class="tab-pane fade ">
+                              <div class="container-fluid">
+                                  <div class="row">
+                                      <div class="col-md-3">
+                                        <h1>amir</h1>
+                                      </div>
+                                      <div class="col-md-6 text-center ">
+                                          <p class="para text-center"></p>
+                                      </div>
+                                      <div class="col-md-3">
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+
+{% endblock %}

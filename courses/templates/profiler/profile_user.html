@@ -1,0 +1,43 @@
+{% extends 'categories/base.html' %}
+{% load bootstrap3 %}
+{% load thumbnail %}
+{% load i18n %}
+{% block profile %}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="page-header" style="background-color: #5cb85c;height: 200px;margin-top: -20px">
+
+                <h1 class="center-block">{{ user }}</h1>
+{#                <button href="{% url 'Project.courses.views.profile_edit' %}" >Edit profile</button>#}
+            </div>
+        </div>
+        <div class="row" >
+            <div class="list-group col-md-4" role="navigation">
+              <button type="button" class="list-group-item" data-toggle="tab" href="#profile">About</button>
+              <button type="button" class="list-group-item" data-toggle="tab" href="#courses-enrolled">Attended</button>
+              <button type="button" class="list-group-item" data-toggle="tab" href="#watch-later">Watch later</button>
+              <button type="button" class="list-group-item" data-toggle="tab" href="#settings">Settings</button>
+            </div>
+
+            <div class="col-md-8">
+                <div class="tab-content ">
+                    <div id="profile" class="tab-pane fade  in active ">
+                     1
+                    </div>
+                    <div id="courses-enrolled" class="tab-pane fade ">
+                      2
+                    </div>
+                    <div id="watch-later" class="tab-pane fade ">
+                      3
+                    </div>
+                    <div id="settings" class="tab-pane fade ">
+                      4
+                    </div>
+
+            </div>
+                </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

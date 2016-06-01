@@ -1,0 +1,48 @@
+{% extends 'categories/base.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+{#<link rel="stylesheet" href="../../static/css/categories-page.css"/>#}
+{# <script src="../../static/javascript/categories-page.js"></script>#}
+
+{% block categories-pages %}
+    <section>
+        <div class="container">
+            <div class="row">
+                <a class="calendarbox" href="{% url 'courses.views.categories_pages' category_name=category %}">< back</a>
+                <br>
+                <br>
+            </div>
+            <div class="row" >
+            {% if courses_spec %}
+                {% for instances in courses_spec %}
+
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail text-center">
+
+                              <div class="caption">
+                                    <h3 ><a class="reset-hover" href="{{ instances.get_absolute_url }}">{{ instances.name }}</a> </h3>
+                                    <p>{{ instances.description }}</p>
+                              </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="alert-danger lead text-align-center">
+                        <p>:( OOPS!! There is no courses now</p>
+                    </div>
+                {% endif %}
+
+
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+{% endblock %}
+

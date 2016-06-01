@@ -1,0 +1,24 @@
+{% extends "registration/registration_base.html" %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load bootstrap3 %}
+{% block reg-log %}
+
+    <div class="col-sm-6 col-sm-offset-3">
+        <h1>Complete your profile data</h1>
+        <form method="post" action="{% url 'register_success' %}">
+
+            {% csrf_token %}
+            {{ tform|crispy }}
+            <input class="btn btn-primary" type="submit" value="{% trans 'Submit' %}"/>
+{#            {% load socialaccount %}#}
+{#            <a href="{% provider_login_url "facebook" method="oauth2" %}">#}
+{#                <button class="btn btn-primary">login with Facebook</button></a>#}
+
+
+
+        </form>
+    </div>
+
+{% endblock %}
+

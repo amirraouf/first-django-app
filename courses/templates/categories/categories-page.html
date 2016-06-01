@@ -1,0 +1,34 @@
+{% extends 'categories/base.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+{#<link rel="stylesheet" href="../../static/css/categories-page.css"/>#}
+{# <script src="../../static/javascript/categories-page.js"></script>#}
+
+{% block categories-pages %}
+    <section>
+        <div class="container">
+            <div class="row">
+                <a class="calendarbox" href="{% url 'courses.views.categories'%}">< back</a>
+                <br>
+                <br>
+            </div>
+            <div class="row" >
+                <h2 class="lead">{{ category }}</h2>
+            </div>
+
+            <div class="row" >
+                    <ul class="nav nav-pills nav-stacked">
+{#                      <li class="active"><a href="#all">All</a></li>#}
+                      {% for specs in spec %}
+                        <li><a href="{{ specs.get_absolute_url }}">{{ specs }}</a></li>
+                      {% endfor %}
+                    </ul>
+            </div>
+        </div>
+
+    </section>
+
+{% endblock %}

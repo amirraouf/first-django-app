@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f41d810-76d2-4d27-9df7-2124664278b0" name="Default" comment="" />
+    <ignored path="Project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/courses/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10199005">
+              <caret line="184" column="13" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_registration_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/registration/user_registration_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="151" column="10" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/registration/registration_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+              <folding>
+                <element signature="e#173#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/categories/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/categories/categories.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/categories/categories-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="specialization-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses/templates/categories/specialization-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="122" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/courses/templates/categories/IT.html" />
+        <option value="$PROJECT_DIR$/courses/static/css/categories-page.css" />
+        <option value="$PROJECT_DIR$/courses/static/css/categories-page.js" />
+        <option value="$PROJECT_DIR$/courses/static/scss/categories-page.scss" />
+        <option value="$PROJECT_DIR$/courses/static/javascript/categories-page.js" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/logout.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/django_allauth-0.24.1.dist-info/allauth/account/forms.py" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/django_allauth-0.24.1.dist-info/allauth/templates/account/signup.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/django_allauth-0.24.1.dist-info/allauth/templates/base.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/registration/templates/registration/registration_form.html" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/registration/registration_form.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/activation_email.txt" />
+        <option value="$PROJECT_DIR$/courses/templates/profile/profile_user.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/allauth/templates/base.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/registration/models.py" />
+        <option value="$PROJECT_DIR$/courses/templates/profiler/profile_edit.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/registration_base.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/postman/urls.py" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/registration_complete.html" />
+        <option value="$PROJECT_DIR$/courses/users/usermodel.py" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/categories.html" />
+        <option value="$PROJECT_DIR$/courses/static/javascript/base.js" />
+        <option value="$PROJECT_DIR$/GoCoursat/urls.py" />
+        <option value="$PROJECT_DIR$/courses/templates/profiler/profile_user.html" />
+        <option value="$PROJECT_DIR$/courses/admin.py" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/done.html" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/categories-page.html" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/specialization-page.html" />
+        <option value="$PROJECT_DIR$/courses/models.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0/console.sql" />
+        <option value="$PROJECT_DIR$/courses/static/css/font-awesome.css" />
+        <option value="$PROJECT_DIR$/New Text Document.txt" />
+        <option value="$PROJECT_DIR$/courses/static/css/base.css" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/login.html" />
+        <option value="$PROJECT_DIR$/GoCoursat/settings.py" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/nothing.html" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/courses.html" />
+        <option value="$PROJECT_DIR$/static/admin/css/base.css" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/home.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/choose_type.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/training_center_registeration_form.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/training_center_registration_form.html" />
+        <option value="$PROJECT_DIR$/courses/templates/categories/base.html" />
+        <option value="$PROJECT_DIR$/courses/forms.py" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/instructor_registration_form.html" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/user_registration_form.html" />
+        <option value="$PROJECT_DIR$/courses/urls.py" />
+        <option value="$PROJECT_DIR$/courses/views.py" />
+        <option value="$PROJECT_DIR$/courses/templates/registration/registration_form.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="categories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoCoursat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/gocourses" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="MySQL" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\courses\templates\registration" />
+      <recent name="E:\Project\courses\static\css" />
+      <recent name="E:\Project\courses\templates" />
+      <recent name="E:\Project\courses\static\img\profile" />
+      <recent name="E:\Project\courses\templates\categories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project" />
+      <recent name="E:\Project\courses\templates\categories" />
+      <recent name="E:\Project\courses\templates" />
+      <recent name="E:\Project\static" />
+      <recent name="E:\Project\courses\static\javascript" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.Project">
+    <configuration default="false" name="demo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Project/courses/templates/categories/demo.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="categories-page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Project/courses/templates/categories/categories-page.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="signup.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Project/myvenv/Lib/site-packages/django_allauth-0.24.1.dist-info/allauth/templates/account/signup.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Project" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="GoCoursat.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Project" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.categories-page.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.signup.html" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.signup.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.categories-page.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f41d810-76d2-4d27-9df7-2124664278b0" name="Default" comment="" />
+      <created>1456087732180</created>
+      <option name="number" value="Default" />
+      <updated>1456087732180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22622108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34185734" sideWeight="0.568299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23457584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270525" sideWeight="0.4974293" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42126516" sideWeight="0.43170103" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32032302" sideWeight="0.5296392" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32166892" sideWeight="0.49761418" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.4974293" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Desktop/first/blog/forms.py</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/GoCoursat/wsgi.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/courses/templates/categories/categories-page.html</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/templates/postman/reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6388309">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.298538">
+          <caret line="271" column="44" selection-start-line="271" selection-start-column="44" selection-end-line="271" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/templatetags/pagination_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07515658">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.004175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/postman/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82254696">
+          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/contrib/auth/base_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33194155">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/forms/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.54408604">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoCoursat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035343036">
+          <caret line="905" column="8" selection-start-line="905" selection-start-column="8" selection-end-line="905" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/static/javascript/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/profiler/profile_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45842695">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/038f5faa-8680-40ea-aeef-813099958ea6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7f6526d3-8765-4c07-9a32-4168b157ce17/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f6530cd8-294f-45ab-9e30-23fa871f9036/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/static/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New Text Document.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.06993007">
+          <caret line="66" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoCoursat/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/registration_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19318181">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/registration_closed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/registration_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3090909">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/nothing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoCoursat/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7811159">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2853717">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6">
+          <caret line="85" column="43" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/training_center_registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5425532">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/choose_type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22190201">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/instructor_registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.269231">
+          <caret line="13" column="15" selection-start-line="8" selection-start-column="8" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="e#173#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="151" column="10" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/user_registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/categories-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/categories/specialization-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="122" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10199005">
+          <caret line="184" column="13" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses/templates/registration/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0</OriginalElement>
+          <nodes>
+            <node x="795.61091954023" y="1129.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.training_center_admin_1</node>
+            <node x="1540.36091954023" y="1118.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courseimage</node>
+            <node x="1838.8609195402303" y="1118.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet_course</node>
+            <node x="1402.86091954023" y="620.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses</node>
+            <node x="1078.5454022988508" y="353.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customers_training_center</node>
+            <node x="1497.61091954023" y="364.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_instructors</node>
+            <node x="495.0" y="1271.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_session</node>
+            <node x="44.75" y="77.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_content_type</node>
+            <node x="0.0" y="1631.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_thumbnaildimensions</node>
+            <node x="1192.11091954023" y="752.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_go_users</node>
+            <node x="870.11091954023" y="763.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_training_center_admin</node>
+            <node x="288.0" y="1271.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_migrations</node>
+            <node x="1921.61091954023" y="397.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet</node>
+            <node x="1699.61091954023" y="353.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_specializations</node>
+            <node x="1161.61091954023" y="1118.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses_user</node>
+            <node x="118.0454022988506" y="774.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group_permissions</node>
+            <node x="978.61091954023" y="1129.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.training_center_admin_2</node>
+            <node x="30.5" y="1440.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_thumbnail</node>
+            <node x="2184.61091954023" y="397.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later</node>
+            <node x="761.0" y="1271.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_site</node>
+            <node x="0.0" y="375.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_permission</node>
+            <node x="388.11091954023004" y="598.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.postman_message</node>
+            <node x="444.0" y="397.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group</node>
+            <node x="1762.0666666666666" y="55.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_categories</node>
+            <node x="2109.86091954023" y="1118.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later_course</node>
+            <node x="1327.61091954023" y="1107.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_like</node>
+            <node x="40.5" y="1271.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_source</node>
+            <node x="182.0" y="331.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_admin_log</node>
+            <node x="955.73591954023" y="0.0">f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group_permissions" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_permission">
+              <point x="-40.75" y="-48.5" />
+              <point x="158.7954022988506" y="578.0" />
+              <point x="81.0" y="578.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_like" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_go_users">
+              <point x="-40.5" y="-59.5" />
+              <point x="1368.11091954023" y="1067.0" />
+              <point x="1328.61091954023" y="1067.0" />
+              <point x="45.5" y="70.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_go_users" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="0.0" y="-70.5" />
+              <point x="1283.11091954023" y="568.0" />
+              <point x="1054.0063218390808" y="568.0" />
+              <point x="1054.0063218390808" y="311.0" />
+              <point x="1096.73591954023" y="311.0" />
+              <point x="0.0" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses_user" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses">
+              <point x="36.5" y="-48.5" />
+              <point x="1271.11091954023" y="1077.0" />
+              <point x="1445.06091954023" y="1077.0" />
+              <point x="-168.79999999999995" y="202.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customers_training_center" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="0.0" y="-81.5" />
+              <point x="1179.5454022988508" y="311.0" />
+              <point x="1128.0692528735633" y="311.0" />
+              <point x="31.333333333333258" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_specializations">
+              <point x="140.66666666666674" y="-202.5" />
+              <point x="1754.5275862068968" y="578.0" />
+              <point x="1800.61091954023" y="578.0" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later_course" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses">
+              <point x="-54.75" y="-48.5" />
+              <point x="2164.61091954023" y="1077.0" />
+              <point x="1782.66091954023" y="1077.0" />
+              <point x="168.79999999999995" y="202.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_like" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses">
+              <point x="40.5" y="-59.5" />
+              <point x="1449.11091954023" y="1087.0" />
+              <point x="1529.46091954023" y="1087.0" />
+              <point x="-84.40000000000009" y="202.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_thumbnail" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_source">
+              <point x="0.0" y="-70.5" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.postman_message" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="0.0" y="-224.5" />
+              <point x="619.11091954023" y="578.0" />
+              <point x="593.1704022988507" y="578.0" />
+              <point x="593.1704022988507" y="281.0" />
+              <point x="1002.73591954023" y="281.0" />
+              <point x="-94.0" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="0.0" y="-37.5" />
+              <point x="2274.11091954023" y="281.0" />
+              <point x="1222.0692528735633" y="281.0" />
+              <point x="125.33333333333326" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_admin_log" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="60.5" y="-103.5" />
+              <point x="363.5" y="271.0" />
+              <point x="971.4025862068966" y="271.0" />
+              <point x="-125.33333333333337" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.training_center_admin_2" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_training_center_admin">
+              <point x="0.0" y="-37.5" />
+              <point x="1060.11091954023" y="1087.0" />
+              <point x="1017.86091954023" y="1087.0" />
+              <point x="49.25" y="59.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_instructors">
+              <point x="0.0" y="-202.5" />
+              <point x="1613.86091954023" y="578.0" />
+              <point x="1588.61091954023" y="578.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet_course" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet">
+              <point x="62.74999999999977" y="-48.5" />
+              <point x="0.0" y="37.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customers_training_center">
+              <point x="-140.66666666666674" y="-202.5" />
+              <point x="1473.1942528735633" y="558.0" />
+              <point x="1230.0454022988508" y="558.0" />
+              <point x="50.5" y="81.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_thumbnaildimensions" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.easy_thumbnails_thumbnail">
+              <point x="0.0" y="-59.5" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later_course" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_watch_later">
+              <point x="54.75" y="-48.5" />
+              <point x="0.0" y="37.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.postman_message" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group">
+              <point x="-92.39999999999998" y="-224.5" />
+              <point x="526.7109195402301" y="578.0" />
+              <point x="545.6666666666666" y="578.0" />
+              <point x="40.66666666666663" y="37.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_permission" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_content_type">
+              <point x="0.0" y="-59.5" />
+              <point x="-36.25" y="48.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courseimage" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="202.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_specializations" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_categories">
+              <point x="0.0" y="-81.5" />
+              <point x="1800.61091954023" y="311.0" />
+              <point x="1853.0666666666666" y="311.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_training_center_admin" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customers_training_center">
+              <point x="1.1368683772161603E-13" y="-59.5" />
+              <point x="968.61091954023" y="578.0" />
+              <point x="1129.0454022988508" y="578.0" />
+              <point x="-50.5" y="81.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group_permissions" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.auth_group">
+              <point x="40.75" y="-48.5" />
+              <point x="240.2954022988506" y="568.0" />
+              <point x="464.33333333333326" y="568.0" />
+              <point x="-40.666666666666686" y="37.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses_user" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_go_users">
+              <point x="-36.5" y="-48.5" />
+              <point x="1198.11091954023" y="1087.0" />
+              <point x="1237.61091954023" y="1087.0" />
+              <point x="-45.5" y="70.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.training_center_admin_1" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_training_center_admin">
+              <point x="0.0" y="-37.5" />
+              <point x="877.11091954023" y="1087.0" />
+              <point x="919.36091954023" y="1087.0" />
+              <point x="-49.25" y="59.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet_course" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_courses">
+              <point x="-62.75000000000023" y="-48.5" />
+              <point x="1901.61091954023" y="1087.0" />
+              <point x="1698.26091954023" y="1087.0" />
+              <point x="84.39999999999986" y="202.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_admin_log" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.django_content_type">
+              <point x="-60.5" y="-103.5" />
+              <point x="242.5" y="311.0" />
+              <point x="153.5" y="311.0" />
+              <point x="36.25" y="48.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_course_attendance_sheet" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="-2.2737367544323206E-13" y="-37.5" />
+              <point x="2027.1109195402298" y="291.0" />
+              <point x="1190.73591954023" y="291.0" />
+              <point x="94.0" y="125.5" />
+            </edge>
+            <edge source="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.customer_instructors" target="f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person">
+              <point x="0.0" y="-70.5" />
+              <point x="1588.61091954023" y="301.0" />
+              <point x="1159.4025862068966" y="301.0" />
+              <point x="62.666666666666515" y="125.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.211864406779661" x="1182.0" y="875.0" />
+          <SelectedNodes>
+            <node>f4b191fb-ffb7-4ce9-aaa1-c9b5647775c0.TABLE:gocoursat_db.courses_person</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

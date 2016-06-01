@@ -1,0 +1,51 @@
+{% extends 'categories/base.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+
+{% block tabs %}
+    <div class="container">
+        <div class="row">
+        <a class="calendarbox" href="{% url 'courses.views.specs_categories_pages' category_name=category spec_name=spec %}">< back</a>
+            <br>
+        </div>
+        <div class="row">
+
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+            {% if course.availability == True %}
+                <h2>{{ course.name }}</h2>
+                <br>
+                <div style="margin: 0 0 50px 30px">
+                    <h3>Description :</h3>
+                    <br>
+                    <p style="margin-left: 20px" class="lead"> {{ course.description }}</p>
+                    <br>
+                        <h3>No of Seats : </h3>
+                    <p style="margin-left: 20px" class="lead"> {{ course.no_seats }}</p>
+                    <br>
+                    <h3>It is
+                        {% if  course.certification == False %}
+                            Not Certified
+                        {% else %}
+                            Certified
+                        {% endif %}
+                    </h3>
+                    <br>
+
+                    <h3>Date : </h3><p style="margin-left: 20px" class="lead">{{ month }}</p>
+                    <br>
+                    <h3>Time :</h3>
+                    <p style="margin-left: 20px" class="lead">{{ hours }} {{ AorP }}</p>
+                </div>
+                {% else %}
+                <div class="alert-danger"> <h2 class="text-center">This Course is not available Now</h2></div>
+                {% endif %}
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+
+    </div>
+{% endblock %}

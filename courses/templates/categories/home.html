@@ -1,0 +1,129 @@
+{% extends 'categories/base.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+
+{% block home %}
+
+
+      <div class="container">
+
+        <div class="row ">
+          <div class="col-md-12 text-center">
+            <img src="../../static/img/logo.png" class="center-block img-circle img-responsive profile-ui">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p class="text-center text-inverse">Everything's better with science</p>
+            <a class="btn btn-lg btn-link" data-toggle="button"
+            id="aboutme">Know about me</a>
+            <br>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="aboutsection">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h1 class="text-primary">Graphic Designer</h1>
+            <h3>A subtitle</h3>
+            <p class="hidden-sm">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+              ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
+              dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
+              nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+              Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In
+              enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
+              felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus
+              elementum semper nisi.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h1 class="text-primary">Django Developer</h1>
+            <h3>A subtitle</h3>
+            <p class="hidden-sm">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+              ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
+              dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
+              nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+              Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In
+              enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
+              felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus
+              elementum semper nisi.</p>
+          </div>
+          <div class="col-md-6">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">Courses</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <a><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+            <h3>A title</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,&nbsp;</p>
+          </div>
+          <div class="col-md-4">
+            <a><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+            <h2>A title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,&nbsp;</p>
+          </div>
+          <div class="col-md-4">
+            <a><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+            <h2>A ttile</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <section class="loading-overlay">
+            <div class="sk-folding-cube">
+                <div class="sk-cube1 sk-cube"></div>
+                <div class="sk-cube2 sk-cube"></div>
+                <div class="sk-cube4 sk-cube"></div>
+                <div class="sk-cube3 sk-cube"></div>
+            </div>
+    </section>
+
+
+{% endblock %}

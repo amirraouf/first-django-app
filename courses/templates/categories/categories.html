@@ -1,0 +1,65 @@
+{% extends 'categories/tabs.html' %}
+{% load staticfiles %}
+{% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% bootstrap_messages %}
+
+{% block tab-courses %}
+    <div class="container-fluid" style="width: 989px;margin-left: -14px;">
+        <div class="row" style="width: 989px;">
+            <div class="col-lg-3">
+                <a href="#"><img  src="../../static/img/courses_categories/Training%20centers.png"></a>
+            </div>
+            <div class="col-lg-3 col-lg-offset-6">
+                <a href="#"><img style="margin-left: 49px;" src="../../static/img/courses_categories/hot%20offers.png"></a>
+            </div>
+        </div>
+        <div class="row" style="width: 989px;">
+            <div class="col-lg-4">
+                {% for its in it %}
+                <a href="{{ its.get_absolute_url }}"><img src="../../static/img/courses_categories/IT.png"></a>
+                {% endfor %}
+            </div>
+
+            <div class="col-lg-4">
+                {% for langs in lang %}
+                <a href="{{ langs.get_absolute_url }}" ><img style="margin-left: 35px;" src="../../static/img/courses_categories/Languages.png"></a>
+                {% endfor %}
+            </div>
+
+
+            <div class="col-lg-4">
+                {% for arts in art %}
+                <a href="{{ arts.get_absolute_url }}"><img style="margin-left: 70px;" src="../../static/img/courses_categories/art%20and%20design.png"></a>
+                {% endfor %}
+            </div>
+
+        </div>
+
+        <div class="row" style="width: 989px; margin-bottom:10px;">
+
+            <div class="col-lg-3">
+                {% for hrs in hr %}
+                <a href="{{ hrs.get_absolute_url }}"><img  src="../../static/img/courses_categories/HR.png"></a>
+                {% endfor %}
+            </div>
+
+
+            <div class="col-lg-3">
+                {% for academics in academic %}
+                <a href="{{ academics.get_absolute_url }}"><img style="margin-left: 30px;" src="../../static/img/courses_categories/finance.png"></a>
+                {% endfor %}
+            </div>
+
+
+            <div class="col-lg-6">
+                {% for businesss in business %}
+                <a href="{{ businesss.get_absolute_url }}"><img style="margin-left: 85px;" src="../../static/img/courses_categories/business%20management.png"></a>
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+
+{% endblock %}

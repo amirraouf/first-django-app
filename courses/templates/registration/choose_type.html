@@ -1,0 +1,39 @@
+{% extends "registration/registration_base.html" %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load bootstrap3 %}
+{% block reg-log %}
+
+
+
+        <div class="col-sm-6 col-sm-offset-3">
+        <h1>Complete Registeration</h1>
+        <br>
+        <form method="get" action="{% url 'choose_type' %}">
+
+            {% for choices in choice.values %}
+
+                <div class="lead radio-inline fa-bold">
+                    <input type="radio" name="choice" value="{{ forloop.counter }}" />
+                    {{ choices }}
+                </div>
+            {% endfor %}
+            <br><br>
+            <input class="btn btn-primary" type="submit" value="{% trans 'Submit' %}" />
+
+        </form>
+        </div>
+{% endblock %}
+
+
+{% comment %}
+**registration/registration_form.html**
+Used to show the form users will fill out to register. By default, has
+the following context:
+
+``form``
+    The registration form. This will be an instance of some subclass
+    of ``django.forms.Form``; consult `Django's forms documentation
+    <http://docs.djangoproject.com/en/dev/topics/forms/>`_ for
+    information on how to display this in a template.
+{% endcomment %}
